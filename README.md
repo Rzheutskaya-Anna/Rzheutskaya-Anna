@@ -39,5 +39,6 @@
  <ul>
 <li>  <a href="https://github.com/Rzheutskaya-Anna/web_testing">Webshop testing</a>  </li>
 <li>  <a href="https://github.com/Rzheutskaya-Anna/api_testing"> REST and SOAP API testing via Postman </a>   </li>
+<li> <a href="https://github.com/Rzheutskaya-Anna/sql">MySQL</a>   </li>
 </ul>
 </p>
