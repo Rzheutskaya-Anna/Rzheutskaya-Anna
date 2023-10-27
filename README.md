@@ -44,5 +44,6 @@
 <li>  <a href="https://github.com/Rzheutskaya-Anna/mongoDB">MongoDB</a>  </li>
 <li> <a href="https://github.com/Rzheutskaya-Anna/charlesproxy">Replacing data with CharlesProxy</a>  </li>
 <li> <a href="https://github.com/Rzheutskaya-Anna/bash/tree/main"> Bash </a>  </li>
+<li> <a href="https://github.com/Rzheutskaya-Anna/git"> Git </a> </li>
 </ul>
 </p>
