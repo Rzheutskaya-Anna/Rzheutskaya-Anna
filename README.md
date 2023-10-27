@@ -43,5 +43,6 @@
 <li>  <a href="https://github.com/Rzheutskaya-Anna/mobile_testing"> Android app testing</a>   </li>
 <li>  <a href="https://github.com/Rzheutskaya-Anna/mongoDB">MongoDB</a>  </li>
 <li> <a href="https://github.com/Rzheutskaya-Anna/charlesproxy">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/Rzheutskaya-Anna/bash/tree/main"> Bash </a>  </li>
 </ul>
 </p>
