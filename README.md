@@ -5,7 +5,7 @@
 <li> 🌱 I’m currently open to job opportunities as QA Engineer </li>
 <li> <img src="https://static.wixstatic.com/media/e9a4f7_fc43c4fd08804dc9b712e28da3742288~mv2.png/v1/fill/w_732,h_431,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Camion_01.png" height="25"> Came to IT from transportation logistics</li>
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/Rzheutskaya-Anna">Github</a></li> </li>
-<li> <img src="https://png2.cleanpng.com/sh/874caba6a877134b2c91c7236fca07d3/L0KzQYm3VMI2N5doj5H0aYP2gLBuTgRpbV5oReJ7b3f1cb70if5oNZ1mhtlAYXfoPbS0hv9zNZNqf9t3bnX1g37zhfF3bV55gNc2bXH3dcPwgfwuPZJqSaNqNUW3Q4aBU8UvOmc5SaoENkK0RYO7V8AyP2k2SqkAOT7zfri=/kisspng-the-c-programming-language-c-for-beginners-leave-the-material-5ae11a55435835.2641896215247017812759.png](https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/cbuilder-logo-1024.png" height="24"> Learning С++ in my free time</li>
+<li> <img src="https://png2.cleanpng.com/sh/874caba6a877134b2c91c7236fca07d3/L0KzQYm3VMI2N5doj5H0aYP2gLBuTgRpbV5oReJ7b3f1cb70if5oNZ1mhtlAYXfoPbS0hv9zNZNqf9t3bnX1g37zhfF3bV55gNc2bXH3dcPwgfwuPZJqSaNqNUW3Q4aBU8UvOmc5SaoENkK0RYO7V8AyP2k2SqkAOT7zfri=/kisspng-the-c-programming-language-c-for-beginners-leave-the-material-5ae11a55435835.2641896215247017812759.png" height="24"> Learning С++ in my free time</li>
 <li>📙 Check out my <a href="https://docs.google.com/document/d/1rw-GcA5GODFc-ou9UHrYwc3L5Xv-EYfNe9Nviu37guo/edit?usp=sharing">resume</a></li>
 <li> <img src="https://img.freepik.com/premium-vector/sketch-of-a-woman-in-a-dress-ballet-pose-dancer-line-art-continuous-art-watercolor-icon-girl_599742-173.jpg?w=740" height="25"> Random fact about me: I`m a dancer </li>
 </ul>
