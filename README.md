@@ -6,7 +6,7 @@
 <li> <img src="https://static.wixstatic.com/media/e9a4f7_fc43c4fd08804dc9b712e28da3742288~mv2.png/v1/fill/w_732,h_431,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Camion_01.png" height="25"> Came to IT from transportation logistics</li>
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/Rzheutskaya-Anna">Github</a></li> </li>
 <li> <img src="https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png" height="24"> Learning Python in my free time</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1lWS3-KVKZ0fzEiexBbEM9GaPYE5o1M-X/view?usp=sharing">resume</a></li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1U7vjuN9G8zr1cHDz49KpOajoWlA02mc-/view?usp=sharing">resume</a></li>
 <li> <img src="https://img.freepik.com/premium-vector/sketch-of-a-woman-in-a-dress-ballet-pose-dancer-line-art-continuous-art-watercolor-icon-girl_599742-173.jpg?w=740" height="25"> Random fact about me: I`m a dancer </li>
 </ul>
 <h2>Some Tools I Use</h2>
